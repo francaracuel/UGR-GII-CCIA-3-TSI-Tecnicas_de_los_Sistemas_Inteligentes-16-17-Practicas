@@ -1,0 +1,8 @@
+prefix=/home/fran/Escritorio/Universidad/TSI/MisPracticas/practica2/devel
+
+Name: explorador_fronteras
+Description: Description of explorador_fronteras
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/fran/Escritorio/Universidad/TSI/MisPracticas/practica2/devel/lib 
+Requires: 

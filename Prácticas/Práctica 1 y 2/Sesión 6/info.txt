@@ -1,0 +1,11 @@
+Práctica 2.
+
+Primera parte:
+	- Los 4 ejercicios iniciales.
+	- Enviar el robot a un punto.
+	- Salvar el mapa en una imagen.
+	
+Segunda parte:
+	- Nuevo comportamiento llamado "my_astar_planning" que tiene implementada
+	la búsqueda en anchura. Hay que hacer un modelo basado en A*.
+	- Se crea un plugin en ROS para la navegación.

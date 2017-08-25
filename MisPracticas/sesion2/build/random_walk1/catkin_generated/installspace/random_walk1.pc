@@ -1,0 +1,8 @@
+prefix=/home/fran/Escritorio/Universidad/TSI/MisPracticas/sesion2/install
+
+Name: random_walk1
+Description: Description of random_walk1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/fran/Escritorio/Universidad/TSI/MisPracticas/sesion2/install/lib 
+Requires: 

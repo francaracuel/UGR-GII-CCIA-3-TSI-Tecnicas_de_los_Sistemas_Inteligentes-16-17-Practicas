@@ -1,0 +1,18 @@
+<launch>
+
+    <param name="/use_sim_time" value="true" />
+        
+    <!-- Launch turtle bot world -->
+    <include file="$(find turtlebot_gazebo)/launch/turtlebot_world.launch"/>       
+ 
+    <!-- Launch explorer node -->
+    <node name="explorer" pkg="random_walk" type="explorer" output="screen">
+        <param name="min_distance" type="double" value="0.6" />
+        <param name="forward_speed" type="double" value="0.3" />
+        <param name="turn_speed" type="double" value="0.5" />
+    </node>
+    
+    <!-- Open rviz -->
+    <include file="$(find turtlebot_rviz_launchers)/launch/view_robot.launch"/>
+    
+</launch>

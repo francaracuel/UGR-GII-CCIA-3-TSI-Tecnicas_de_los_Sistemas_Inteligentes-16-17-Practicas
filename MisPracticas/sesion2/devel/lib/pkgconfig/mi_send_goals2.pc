@@ -1,0 +1,8 @@
+prefix=/home/fran/Escritorio/Universidad/TSI/MisPracticas/sesion2/devel
+
+Name: mi_send_goals2
+Description: Description of mi_send_goals2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/fran/Escritorio/Universidad/TSI/MisPracticas/sesion2/devel/lib 
+Requires: 

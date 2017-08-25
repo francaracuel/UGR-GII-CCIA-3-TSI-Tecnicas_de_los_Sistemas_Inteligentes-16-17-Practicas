@@ -1,0 +1,2 @@
+explorador_fronteras:my_astar_planner
+-DCATKIN_DEVEL_PREFIX=/home/fran/Escritorio/Universidad/TSI/MisPracticas/practica2/devel -DCMAKE_INSTALL_PREFIX=/home/fran/Escritorio/Universidad/TSI/MisPracticas/practica2/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/fran/Escritorio/Universidad/TSI/MisPracticas/practica2/install
+
+Name: my_astar_planner
+Description: Description of my_astar_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/fran/Escritorio/Universidad/TSI/MisPracticas/practica2/install/lib 
+Requires: 

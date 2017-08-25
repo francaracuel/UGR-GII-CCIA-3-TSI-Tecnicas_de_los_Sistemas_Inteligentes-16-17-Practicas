@@ -1,0 +1,2 @@
+ejecutar ff con valgrind
+ H.h -> incrementar notablemente las constantes

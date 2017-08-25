@@ -1,0 +1,2 @@
+beginner_tutorials:mi_mapeo:mi_mapeo_stage:mi_send_goals2:my_turtle:wander_bot
+-DCATKIN_DEVEL_PREFIX=/home/fran/Escritorio/Universidad/TSI/MisPracticas/sesion2/devel -DCMAKE_INSTALL_PREFIX=/home/fran/Escritorio/Universidad/TSI/MisPracticas/sesion2/install -G Unix Makefiles
